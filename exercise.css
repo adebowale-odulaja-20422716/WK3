@@ -39,3 +39,9 @@ footer {
     color: white;
     grid-area: footer;
 }
+
+li {
+    width: 30%;
+    float: left;
+    list-style: none
+}
